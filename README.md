@@ -1,2 +1,2 @@
 # Airline Customer Satisfaction Project
-sdada
+In this project, I use traditional supervised machhine learning model , for instance, logistic regression, KNN, Random Forest etc. to find the factos which have significant impact on airline customers satisfaction such as age of customer, flight delay time, flight distance,airline food quality etc. The project included the process like data exploration, data cleaning ,data preprocessing, model construction and performance evaluation. This project also have the report which give a summary for this project.
